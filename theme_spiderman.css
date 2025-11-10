@@ -1,0 +1,21 @@
+/* Tema específic Spider-Man */
+header { background: #eaf4ff; }
+h1 { letter-spacing: 0.5px; }
+article { border-left: 4px solid #cde3ff; padding-left: 1rem; }
+article p{
+    text-decoration: dotted;
+}
+
+section{
+    display: flex;
+    align-content: space-around;
+}
+
+section .carta{
+    width: 33%;
+    text-align: center;
+}
+
+img{
+    width:70%;
+}
