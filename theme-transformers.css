@@ -45,3 +45,12 @@ main {
 .article ~ p{
     color:blue
 }
+
+section{
+    display: flex;
+    align-content: space-around;
+}
+section .carta{
+    width: 33%;
+    text-align: center;
+}
